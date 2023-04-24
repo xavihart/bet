@@ -1,5 +1,8 @@
 **sync-conflict**
 
+*.tar
+*.zip
+*.gz
 exp_local
 __pycache__
 *.pyc
